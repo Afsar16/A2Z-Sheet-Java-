@@ -52,7 +52,7 @@ public class P3 {
             }
             ch--;
             for(int k=0; k<i; k++) {
-                System.out.print(--ch);
+                System.out.print(--ch); 
             }
             System.out.println();
             // ch++;
